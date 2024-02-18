@@ -1,0 +1,11 @@
+Individual,Predicted,Predicted_rank,True,True_rank,Score_predict,Score_true,Dif
+FOOD-020,CerealsAndGrainProducts,4,PizzaAndFocacciaBread,174,0.795,0.195,170
+FOOD-3001,ProcessedVegetables,2,TomatoSauces,125,0.875,0.275,123
+Maltose_020,Carbs,7,Maltose,100,0.845,0.075,93
+Maltose_230,Carbs,16,Maltose,99,0.88,0.045,83
+FOOD-0014,Food,11,LegumesAndLegumeProducts,93,0.74,0.47,82
+FOOD-053,Food,21,LegumesAndLegumeProducts,102,0.725,0.48,81
+Maltose_030,Carbs,21,Maltose,100,0.85,0.025,79
+Maltose_110,Carbs,19,Maltose,97,0.83,0.075,78
+Fructose_170,Carbs,7,Fructose,82,0.89,0.205,75
+Fructose_610,Carbs,4,Fructose,79,0.89,0.41,75

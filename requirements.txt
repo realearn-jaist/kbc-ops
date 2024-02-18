@@ -1,0 +1,14 @@
+dash
+matplotlib
+numpy
+pandas
+networkx
+owlready2
+pydot
+python-dotenv
+graphviz
+dash-renderer
+dash-core-components
+dash-html-components
+plotly
+gunicorn
