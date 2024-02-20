@@ -1,0 +1,11 @@
+Individual,Predicted,Predicted_rank,True,True_rank,Score_predict,Score_true,Dif
+FOOD-020,CerealsAndGrainProducts,7,PizzaAndFocacciaBread,96,0.745,0.335,89
+FOOD-100225,BasicFood,115,Cream,186,0.165,0.05,71
+StearicAcid_3320,Lipid,3,StearicAcid,73,0.715,0.515,70
+MonounsaturatedLipid_3954,Lipid,3,MonounsaturatedLipid,72,0.565,0.445,69
+Maltose_030,Carbs,18,Maltose,83,0.7,0.24,65
+ErucicAcid_034,Lipid,13,ErucicAcid,78,0.7,0.42,65
+SaturatedLipid_703,Lipid,3,SaturatedLipid,68,0.62,0.48,65
+Maltose_110,Carbs,31,Maltose,93,0.54,0.25,62
+OleicAcid_1296,Lipid,5,OleicAcid,67,0.655,0.51,62
+StearicAcid_252,Lipid,9,StearicAcid,69,0.685,0.49,60

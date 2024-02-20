@@ -1,0 +1,9 @@
+onto,embed,all,infer
+helis,opa2vec,4065,555
+helis,onto2vec,4065,580
+helis,rdf2vec,4065,439
+helis,owl2vecstar,4065,11
+foodon,opa2vec,5957,4031
+foodon,onto2vec,5957,4865
+foodon,rdf2vec,5957,3848
+foodon,owl2vecstar,5957,4354

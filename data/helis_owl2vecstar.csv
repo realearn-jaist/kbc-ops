@@ -1,0 +1,11 @@
+Individual,Predicted,Predicted_rank,True,True_rank,Score_predict,Score_true,Dif
+FOOD-020,CerealsAndGrainProducts,57,PizzaAndFocacciaBread,174,0.33,0.225,117
+FOOD-053,VegetablesAndLegumes,84,LegumesAndLegumeProducts,174,0.335,0.26,90
+FOOD-0014,VegetablesAndLegumes,111,LegumesAndLegumeProducts,175,0.325,0.255,64
+FOOD-100225,SweetSpreads,98,Cream,137,0.385,0.28,39
+FOOD-086,BasicFood,59,CerealsAndGrainProducts,75,0.25,0.235,16
+FOOD-888002,ProcessedLegumes,4,SoyProducts,17,0.745,0.62,13
+FOOD-8069,FatsAndOils,22,VegetalFats,34,0.535,0.515,12
+FOOD-1514,ProcessedFish,4,MarinatedFish,12,0.7,0.6,8
+FOOD-999024,ProcessedLegumes,5,SoyProducts,12,0.675,0.635,7
+FOOD-9070,BasicFood,147,Shellfish,152,0.195,0.185,5
