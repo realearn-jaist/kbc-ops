@@ -18,11 +18,12 @@
 This repository contains 2 codes, code used for experiment and KBCOps demo.
 ### Experiment code
 The code used in our experiment are edited version of [OWL2Vec*](https://github.com/KRR-Oxford/OWL2Vec-Star) case study code.
-These experiment codes can be found in [extraction](https://github.com/chavakan209/kbc-ops/tree/main/extraction) folder.
-You can use the code to extr5action information into csv file for the KBCOps to analyse.
+These experiment codes can be found in [extraction](https://github.com/realearn-jaist/kbc-ops/tree/main/extraction) folder.
+You can use the code to extract information into csv file for the KBCOps to analyse.
+Noted that *infer* in csv file is what we called *garbage*.
 
 ### KBCOps
-Excluding extraction code, these files are used to deploy KBCOps demo to our heroku sever using dash-framework as its base. You can find all the code used for the demo in [app.py](https://github.com/chavakan209/kbc-ops/blob/main/app.py).
+Excluding extraction code, these files are used to deploy KBCOps demo to our heroku sever using dash-framework as its base. You can find all the code used for the demo in [app.py](https://github.com/realearn-jaist/kbc-ops/blob/main/app.py).
 
 ## Paper 
 
