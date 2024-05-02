@@ -4,7 +4,7 @@
 
 **Contacts:** racharak [at] jaist [dot] ac [dot] jp and chavakan [dot] yim [at] gmail [dot] com
 
-**Disclaimer:** This repository contains executable source codes supporting our submission to KR 2024. 
+**Disclaimer:** This repository contains executable source codes supporting our submission to KR 2024 (Main Track). 
 
 ## Demo Video on Youtube
 
