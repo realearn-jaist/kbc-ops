@@ -12,7 +12,7 @@
 
 ## Online Application
 
-**Link:** https://www.jaist.ac.jp/~racharak/lab/projects/kbc-ops
+**Link:** https://www.jaist.ac.jp/~racharak/lab/projects/kbc-ops/v0
 
 ## Folder Documentation
 This repository contains 2 codes, code used for experiment and KBCOps demo.
